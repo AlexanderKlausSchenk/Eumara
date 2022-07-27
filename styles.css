@@ -127,7 +127,7 @@ footer a {
 .home {
     width: 100%;
     height: 100vh;
-    background-image: url("Bilder/Photo-pillen.png");
+    background-image: url("Bilder/photo-pillen.png");
     background-position: center top;
 	background-size:cover;
 }
