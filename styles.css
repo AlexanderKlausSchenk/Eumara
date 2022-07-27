@@ -14,6 +14,18 @@ body {
     color: white;
     font-weight: 700;
     padding-top: 400px;
+    font-size: 7rem;
+}
+
+a:link {
+    text-decoration: none;
+    color: #343a40;
+}
+
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
 }
 
 /*Sections*/
@@ -27,11 +39,15 @@ body {
 }
 
 .colorTwo {
-    background-color: #E15E44;
+    background-color: #000033;
 }
 
 .colorThree {
-    background-color: #5C0F00;
+    background-color: #CFD2CF;
+}
+
+.colorFour {
+    background-color: #A2B5BB;
 }
 
 footer {
@@ -41,6 +57,11 @@ footer {
 footer a {
     color: #f8f9fa!important
 }
+
+.btn {
+    color: #343a40;
+}
+
 
 /* Navbar section */
 
@@ -106,7 +127,7 @@ footer a {
 .home {
     width: 100%;
     height: 100vh;
-    background-image: url(https://images.unsplash.com/photo-1498550744921-75f79806b8a7?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b0f6908fa5e81286213c7211276e6b3d&auto=format&fit=crop&w=1500&q=80);
+    background-image: url("Bilder/Photo-pillen.png");
     background-position: center top;
 	background-size:cover;
 }
